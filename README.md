@@ -7,17 +7,26 @@ package DSA-test-2;
 
 
 //Index	Name	    Age	Class
+
 //0	Nguyễn Văn A	10	5D4
+
 //1	Nguyễn Văn B	9	4C3
+
 //2	Nguyễn Văn D	8	3B2
+
 //3	Nguyễn Văn D	7	2A1
 
 
 //1.	Tạo mảng danh sách sinh viên
+
 //2.	Thêm sinh viên vào mảng theo chỉ mục như ở trên
+
 //3.	In toàn bộ danh sách sinh viên ra màn hình
+
 //4.	Tìm kiếm sinh viên có tên là Nguyễn Văn A và in thông tin sinh viên đó ra màn hình
+
 //5.	Tìm kiếm sinh viên nhiều tuổi nhất và in ra màn hình
+
 //6.	Đổi chỗ sinh viên Index 0 với sinh viên index 3. In lại mảng ra màn hình
 
 public class DSA_part2array {
